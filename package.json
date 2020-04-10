@@ -1,0 +1,25 @@
+{
+  "name": "tsc-session",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "json-server --watch db.json --routes routes.json --port 3001",
+    "01": "tsc && node ./01_demo",
+    "02": "tsc && node ./02_js-vs-ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prem0406/tsc-session.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prem0406/tsc-session/issues"
+  },
+  "homepage": "https://github.com/prem0406/tsc-session#readme",
+  "dependencies": {
+    "typescript": "^3.8.3"
+  }
+}
