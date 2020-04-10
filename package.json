@@ -7,7 +7,11 @@
     "test": "echo \"Error: no test specified\" && exit 1",
     "server": "json-server --watch db.json --routes routes.json --port 3001",
     "01": "tsc && node ./01_demo",
-    "02": "tsc && node ./02_js-vs-ts"
+    "02": "tsc && node ./02_js-vs-ts",
+    "03_number": "tsc && node ./03_annotaion-vs-inference/01_number.js",
+    "03_object-literals": "tsc && node ./03_annotaion-vs-inference/04_object-literals.js",
+    "03_arrays": "tsc && node ./03_annotaion-vs-inference/05_arrays.js",
+    "03_functions": "tsc && node ./03_annotaion-vs-inference/06_functions.js"
   },
   "repository": {
     "type": "git",
