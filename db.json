@@ -1,0 +1,358 @@
+{
+    "users": [
+      {
+        "id": "1",
+        "name": "Akash Nagpal",
+        "email": "akash.nagpal@nagarro.com"
+      },
+      {
+        "id": "2",
+        "name": "Devraj Roy",
+        "email": "devraj.roy@nagarro.com"
+      },
+      {
+        "id": "3",
+        "name": "Kunwarpreet Singh",
+        "email": "kunwarpreet.singh@nagarro.com"
+      },
+      {
+        "id": "4",
+        "name": "Monika Pant",
+        "email": "monika.pant@nagarro.com"
+      },
+      {
+        "id": "5",
+        "name": "Akshay Jain",
+        "email": "akshay.jain@nagarro.com"
+      },
+      {
+        "id": "6",
+        "name": "Mohit Arora",
+        "email": "mohit.arora@nagarro.com"
+      },
+      {
+        "id": "7",
+        "name": "Sakshi Aggarwal",
+        "email": "sakshi.aggarwal@nagarro.com"
+      },
+      {
+        "id": "8",
+        "name": "Sanya Dhillon",
+        "email": "sanya.dhillon@nagarro.com"
+      }
+    ],
+    "skillsets": [
+      {
+        "userId": "1",
+        "report": [
+          {
+            "techId": "1",
+            "marks": 80
+          },
+          {
+            "techId": "2",
+            "marks": 75
+          },
+          {
+            "techId": "7",
+            "marks": 88
+          },
+          {
+            "techId": "4",
+            "marks": 67
+          }
+        ]
+      },
+      {
+        "userId": 2,
+        "report": [
+          {
+            "techId": "5",
+            "marks": 97
+          },
+          {
+            "techId": "2",
+            "marks": 77
+          },
+          {
+            "techId": "6",
+            "marks": 78
+          },
+          {
+            "techId": "3",
+            "marks": 61
+          },
+          {
+            "techId": "8",
+            "marks": 71
+          }
+        ]
+      },
+      {
+        "userId": 8,
+        "report": [
+          {
+            "techId": "5",
+            "marks": 90
+          },
+          {
+            "techId": "2",
+            "marks": 82
+          },
+          {
+            "techId": "6",
+            "marks": 65
+          },
+          {
+            "techId": "3",
+            "marks": 88
+          },
+          {
+            "techId": "8",
+            "marks": 70
+          }
+        ]
+      },
+      {
+        "userId": 3,
+        "report": [
+          {
+            "techId": "1",
+            "marks": 97
+          },
+          {
+            "techId": "2",
+            "marks": 77
+          },
+          {
+            "techId": "3",
+            "marks": 78
+          },
+          {
+            "techId": "4",
+            "marks": 61
+          },
+          {
+            "techId": "9",
+            "marks": 71
+          }
+        ]
+      },
+      {
+        "userId": 4,
+        "report": [
+          {
+            "techId": "9",
+            "marks": 97
+          },
+          {
+            "techId": "8",
+            "marks": 77
+          },
+          {
+            "techId": "7",
+            "marks": 78
+          },
+          {
+            "techId": "6",
+            "marks": 61
+          },
+          {
+            "techId": "5",
+            "marks": 71
+          }
+        ]
+      },
+      {
+        "userId": 5,
+        "report": [
+          {
+            "techId": "4",
+            "marks": 97
+          },
+          {
+            "techId": "3",
+            "marks": 77
+          },
+          {
+            "techId": "2",
+            "marks": 78
+          },
+          {
+            "techId": "1",
+            "marks": 61
+          },
+          {
+            "techId": "9",
+            "marks": 71
+          }
+        ]
+      },
+      {
+        "userId": 6,
+        "report": [
+          {
+            "techId": "8",
+            "marks": 97
+          },
+          {
+            "techId": "7",
+            "marks": 77
+          },
+          {
+            "techId": "6",
+            "marks": 78
+          },
+          {
+            "techId": "5",
+            "marks": 61
+          },
+          {
+            "techId": "4",
+            "marks": 71
+          }
+        ]
+      },
+      {
+        "userId": 5,
+        "report": [
+          {
+            "techId": "5",
+            "marks": 97
+          },
+          {
+            "techId": "4",
+            "marks": 77
+          },
+          {
+            "techId": "9",
+            "marks": 78
+          },
+          {
+            "techId": "8",
+            "marks": 61
+          },
+          {
+            "techId": "7",
+            "marks": 71
+          }
+        ]
+      },
+      {
+        "userId": 6,
+        "report": [
+          {
+            "techId": "7",
+            "marks": 97
+          },
+          {
+            "techId": "5",
+            "marks": 77
+          },
+          {
+            "techId": "3",
+            "marks": 78
+          },
+          {
+            "techId": "1",
+            "marks": 61
+          },
+          {
+            "techId": "8",
+            "marks": 71
+          }
+        ]
+      },
+      {
+        "userId": 7,
+        "report": [
+          {
+            "techId": "2",
+            "marks": 97
+          },
+          {
+            "techId": "4",
+            "marks": 77
+          },
+          {
+            "techId": "8",
+            "marks": 78
+          },
+          {
+            "techId": "6",
+            "marks": 61
+          },
+          {
+            "techId": "1",
+            "marks": 71
+          }
+        ]
+      }
+    ],
+    "technologies": [
+      {
+        "id": "1",
+        "name": "Angular v1",
+        "categoryId": "1"
+      },
+      {
+        "id": "2",
+        "name": "Angular",
+        "categoryId": "1"
+      },
+      {
+        "id": "3",
+        "name": "Node",
+        "categoryId": "2"
+      },
+      {
+        "id": "4",
+        "name": "Cucumber",
+        "categoryId": "3"
+      },
+      {
+        "id": "5",
+        "name": ".NET Core",
+        "categoryId": "2"
+      },
+      {
+        "id": "6",
+        "name": "Java",
+        "categoryId": "2"
+      },
+      {
+        "id": "7",
+        "name": "React",
+        "categoryId": "1"
+      },
+      {
+        "id": "8",
+        "name": "Vue",
+        "categoryId": "1"
+      },
+      {
+        "id": "9",
+        "name": "Svelte",
+        "categoryId": "1"
+      },
+      {
+        "id": "10",
+        "name": "Appium",
+        "categoryId": "3"
+      }
+    ],
+    "technologyCategories": [
+      {
+        "id": "1",
+        "name": "Frontend"
+      },
+      {
+        "id": "2",
+        "name": "Backend"
+      },
+      {
+        "id": "3",
+        "name": "QA"
+      }
+    ]
+  }

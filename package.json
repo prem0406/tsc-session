@@ -11,7 +11,10 @@
     "03_number": "tsc && node ./03_annotaion-vs-inference/01_number.js",
     "03_object-literals": "tsc && node ./03_annotaion-vs-inference/04_object-literals.js",
     "03_arrays": "tsc && node ./03_annotaion-vs-inference/05_arrays.js",
-    "03_functions": "tsc && node ./03_annotaion-vs-inference/06_functions.js"
+    "03_functions": "tsc && node ./03_annotaion-vs-inference/06_functions.js",
+    "11_callback": "tsc && node ./11_async-patterns/01_callbacks",
+    "11_promise": "tsc && node ./11_async-patterns/02_promises",
+    "11_async-await": "tsc && node ./11_async-patterns/03_async-await"
   },
   "repository": {
     "type": "git",
@@ -24,6 +27,8 @@
   },
   "homepage": "https://github.com/prem0406/tsc-session#readme",
   "dependencies": {
+    "axios": "^0.19.2",
+    "request": "^2.88.2",
     "typescript": "^3.8.3"
   }
 }

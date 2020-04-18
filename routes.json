@@ -1,0 +1,10 @@
+{
+    "/api/*": "/$1",
+    "/user": "/users",
+    "/user/:id": "/users?id=:id",
+    "/user/:id/skillsets": "/skillsets?userId=:id",
+    "/technology": "/technologies",
+    "/technology/:id": "/technologies?id=:id",
+    "/technologyCategory": "/technologyCategories",
+    "/technologyCategory/:id": "/technologyCategories?id=:id"
+}
