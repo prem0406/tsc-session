@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/prem0406/tsc-session#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "request": "^2.88.2",
     "typescript": "^3.8.3"
   }
